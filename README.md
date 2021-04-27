@@ -15,5 +15,5 @@ yarn install
 
 Starts a local server for this project.
 ```
-yarn arduino.js && yarn server.js
+node arduino.js && node server.js
 ```
