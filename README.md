@@ -1,8 +1,5 @@
 <h2>Project</h2>
 
-This is a very small project for demo purposes using sockets and johnny five.
-
-
 <h2>Install</h2>
 
 ```bash
